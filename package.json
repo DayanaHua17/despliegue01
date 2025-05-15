@@ -8,6 +8,9 @@
   },
   "author": "Dayana H. <dayanah1704@gmail.com>",
   "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
   "devDependencies": {
     "dotenv": "^16.5.0",
     "nodemon": "^3.1.10"
